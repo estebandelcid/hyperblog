@@ -33,3 +33,11 @@ body {
 #container p {
     padding-left: 10px;
 }
+footer p {
+    background: rgb(114, 114, 114);
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    padding: 0.5rem;
+    margin-bottom: 0;
+}
