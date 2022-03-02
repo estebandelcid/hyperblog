@@ -5,6 +5,12 @@ body {
    font-size: 16px;
    margin: 0;
    padding: 0;
+   background-color: #333;
+}
+#logo {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
 }
 #cabecera {
     background: #33a;
@@ -27,9 +33,15 @@ body {
     margin: 0 auto;
 }
 #container h1 {
-    font-size: 20px;
+    font-size: 1.2rem;
     padding-left: 10px;
+    margin: 0;
+    padding-top: 10px;
 }
 #container p {
     padding-left: 10px;
+    margin-bottom: 0px;
+}
+#post {
+    background: #fff;
 }
