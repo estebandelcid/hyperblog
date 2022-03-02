@@ -34,7 +34,7 @@ body {
     padding-left: 10px;
 }
 footer p {
-    background: rgb(114, 114, 114);
+    background: #333;
     text-align: center;
     color: white;
     font-weight: 600;
